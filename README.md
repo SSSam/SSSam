@@ -1,6 +1,6 @@
 ![Samuel Jen](https://github.com/SSSam/SSSam/assets/72668861/e63cfe7b-84e4-4b56-9ba9-d6bda6a8c726)
 
-# Innovate, Create, Compute: The Fusion of Arts and Computer Science  
+## Innovate, Create, Compute: The Fusion of Arts and Computer Science  
 
 
 
